@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Steph</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-<img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
+<img align="right" width="200" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angestephane" width="55%" alt="angestephane" /></a> </p>
 
