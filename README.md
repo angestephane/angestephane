@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steph</h1>
-<h3 align="center">A passionate FullStack developer</h3>
+<h3 align="center">Mobile and Backend Engineer</h3>
 
 <img align="right" width="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding"/>
 
