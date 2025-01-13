@@ -1,5 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4E16AQFJ7BnZbGznVg/profile-displaybackgroundimage-shrink_350_1400/0/1682356038682?e=1687996800&v=beta&t=2tpPP6dANaspAW1ijrG5auB1h_Y4LiS0jx_v9MtmLaI)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Steph</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
